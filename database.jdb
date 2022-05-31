@@ -4,3 +4,7 @@ MADAR1TA={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_i
 JesusLivan={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 1, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
 YonatanDavid={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
 Guts_6={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+Leetzu1={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '---', 'moodle_repo_id': 4, 'moodle_user': '---', 'moodle_password': '---', 'isadmin': 0, 'zips': 100, 'uploadtype': 'evidence', 'proxy': '', 'tokenize': 0}
+
+
+
